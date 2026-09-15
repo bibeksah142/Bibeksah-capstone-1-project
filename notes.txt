@@ -1,0 +1,5 @@
+GitHub Training Notes
+
+A repository stores project files and their history.
+A commit records a set of changes.
+A branch lets me work separately from main.
