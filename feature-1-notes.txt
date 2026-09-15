@@ -1,0 +1,3 @@
+Github training notes
+
+Merging brings changes from one branch into another.
